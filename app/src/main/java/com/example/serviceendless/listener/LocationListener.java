@@ -21,7 +21,7 @@ public class LocationListener implements android.location.LocationListener {
 
     public LocationListener(){
         final String FILES = "/ServiceEndless/Logs";
-//aa
+//aa ss
         String path = Environment.getExternalStorageDirectory().getPath() + FILES;
 
         File folderFile = new File(path);
